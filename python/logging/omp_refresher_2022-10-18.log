@@ -1,0 +1,263 @@
+18-10-2022 16:00:24 [INF]: working
+18-10-2022 16:01:15 [INF]: working
+2022-10-18 22:19:07 [INF]: Started program
+2022-10-18 22:19:07 [INF]: starting execution
+2022-10-18 22:19:07 [INF]: trying to get data from: SELECT table_name FROM header
+2022-10-18 22:19:07 [DBG]: trying to get data from: SELECT main_url FROM `on-ear-kopfhoerer` ORDER BY id
+2022-10-18 22:19:07 [DBG]: catched entry: https://amzn.to/3V8qkZC
+2022-10-18 22:19:07 [DBG]: catched entry: https://amzn.to/3ek33mK
+2022-10-18 22:19:07 [DBG]: catched entry: https://amzn.to/3CEgesb
+2022-10-18 22:19:07 [DBG]: catched entry: https://amzn.to/3V7pTi2
+2022-10-18 22:19:07 [DBG]: catched entry: https://amzn.to/3fLL7Sw
+2022-10-18 22:19:07 [DBG]: catched entry: https://amzn.to/3fSOg3a
+2022-10-18 22:19:07 [DBG]: catched entry: https://amzn.to/3ChExe0
+2022-10-18 22:19:07 [DBG]: catched entry: https://amzn.to/3RI3pRO
+2022-10-18 22:19:07 [DBG]: trying to get data from: SELECT main_url FROM `waschmaschinen` ORDER BY id
+2022-10-18 22:19:07 [DBG]: catched entry: 
+2022-10-18 22:19:07 [DBG]: catched main list:[{'on-ear-kopfhoerer': ['https://amzn.to/3V8qkZC', 'https://amzn.to/3ek33mK', 'https://amzn.to/3CEgesb', 'https://amzn.to/3V7pTi2', 'https://amzn.to/3fLL7Sw', 'https://amzn.to/3fSOg3a', 'https://amzn.to/3ChExe0', 'https://amzn.to/3RI3pRO']}, {'waschmaschinen': ['']}]
+2022-10-18 22:19:10 [INF]: Stopping
+2022-10-18 22:23:53 [INF]: Started program
+2022-10-18 22:23:53 [INF]: starting execution
+2022-10-18 22:23:53 [INF]: trying to get data from: SELECT table_name FROM header
+2022-10-18 22:23:53 [DBG]: trying to get data from: SELECT main_url FROM `on-ear-kopfhoerer` ORDER BY id
+2022-10-18 22:23:53 [DBG]: catched entry: https://amzn.to/3V8qkZC
+2022-10-18 22:23:53 [DBG]: catched entry: https://amzn.to/3ek33mK
+2022-10-18 22:23:53 [DBG]: catched entry: https://amzn.to/3CEgesb
+2022-10-18 22:23:53 [DBG]: catched entry: https://amzn.to/3V7pTi2
+2022-10-18 22:23:53 [DBG]: catched entry: https://amzn.to/3fLL7Sw
+2022-10-18 22:23:53 [DBG]: catched entry: https://amzn.to/3fSOg3a
+2022-10-18 22:23:53 [DBG]: catched entry: https://amzn.to/3ChExe0
+2022-10-18 22:23:53 [DBG]: catched entry: https://amzn.to/3RI3pRO
+2022-10-18 22:23:53 [DBG]: trying to get data from: SELECT main_url FROM `waschmaschinen` ORDER BY id
+2022-10-18 22:23:53 [DBG]: catched entry: 
+2022-10-18 22:23:53 [DBG]: catched main list:[{'on-ear-kopfhoerer': ['https://amzn.to/3V8qkZC', 'https://amzn.to/3ek33mK', 'https://amzn.to/3CEgesb', 'https://amzn.to/3V7pTi2', 'https://amzn.to/3fLL7Sw', 'https://amzn.to/3fSOg3a', 'https://amzn.to/3ChExe0', 'https://amzn.to/3RI3pRO']}, {'waschmaschinen': ['']}]
+2022-10-18 22:25:36 [INF]: Started program
+2022-10-18 22:25:36 [INF]: starting execution
+2022-10-18 22:25:36 [INF]: trying to get data from: SELECT table_name FROM header
+2022-10-18 22:25:36 [DBG]: trying to get data from: SELECT main_url FROM `on-ear-kopfhoerer` ORDER BY id
+2022-10-18 22:25:36 [DBG]: catched entry: https://amzn.to/3V8qkZC
+2022-10-18 22:25:36 [DBG]: catched entry: https://amzn.to/3ek33mK
+2022-10-18 22:25:36 [DBG]: catched entry: https://amzn.to/3CEgesb
+2022-10-18 22:25:36 [DBG]: catched entry: https://amzn.to/3V7pTi2
+2022-10-18 22:25:36 [DBG]: catched entry: https://amzn.to/3fLL7Sw
+2022-10-18 22:25:36 [DBG]: catched entry: https://amzn.to/3fSOg3a
+2022-10-18 22:25:36 [DBG]: catched entry: https://amzn.to/3ChExe0
+2022-10-18 22:25:36 [DBG]: catched entry: https://amzn.to/3RI3pRO
+2022-10-18 22:25:36 [DBG]: trying to get data from: SELECT main_url FROM `waschmaschinen` ORDER BY id
+2022-10-18 22:25:36 [DBG]: catched entry: 
+2022-10-18 22:25:36 [DBG]: catched main list:[{'on-ear-kopfhoerer': ['https://amzn.to/3V8qkZC', 'https://amzn.to/3ek33mK', 'https://amzn.to/3CEgesb', 'https://amzn.to/3V7pTi2', 'https://amzn.to/3fLL7Sw', 'https://amzn.to/3fSOg3a', 'https://amzn.to/3ChExe0', 'https://amzn.to/3RI3pRO']}, {'waschmaschinen': ['']}]
+2022-10-18 22:26:04 [INF]: Started program
+2022-10-18 22:26:04 [INF]: starting execution
+2022-10-18 22:26:04 [INF]: trying to get data from: SELECT table_name FROM header
+2022-10-18 22:26:04 [DBG]: trying to get data from: SELECT id, main_url FROM `on-ear-kopfhoerer` ORDER BY id
+2022-10-18 22:26:04 [DBG]: catched entry: https://amzn.to/3V8qkZC
+2022-10-18 22:26:04 [DBG]: catched entry: https://amzn.to/3ek33mK
+2022-10-18 22:26:04 [DBG]: catched entry: https://amzn.to/3CEgesb
+2022-10-18 22:26:04 [DBG]: catched entry: https://amzn.to/3V7pTi2
+2022-10-18 22:26:04 [DBG]: catched entry: https://amzn.to/3fLL7Sw
+2022-10-18 22:26:04 [DBG]: catched entry: https://amzn.to/3fSOg3a
+2022-10-18 22:26:04 [DBG]: catched entry: https://amzn.to/3ChExe0
+2022-10-18 22:26:04 [DBG]: catched entry: https://amzn.to/3RI3pRO
+2022-10-18 22:26:04 [DBG]: trying to get data from: SELECT id, main_url FROM `waschmaschinen` ORDER BY id
+2022-10-18 22:26:04 [DBG]: catched entry: 
+2022-10-18 22:26:04 [DBG]: catched main list:[{'on-ear-kopfhoerer': ['https://amzn.to/3V8qkZC', 'https://amzn.to/3ek33mK', 'https://amzn.to/3CEgesb', 'https://amzn.to/3V7pTi2', 'https://amzn.to/3fLL7Sw', 'https://amzn.to/3fSOg3a', 'https://amzn.to/3ChExe0', 'https://amzn.to/3RI3pRO']}, {'waschmaschinen': ['']}]
+2022-10-18 22:26:18 [INF]: Started program
+2022-10-18 22:26:18 [INF]: starting execution
+2022-10-18 22:26:18 [INF]: trying to get data from: SELECT table_name FROM header
+2022-10-18 22:26:18 [DBG]: trying to get data from: SELECT id, main_url FROM `on-ear-kopfhoerer` ORDER BY id
+2022-10-18 22:26:18 [DBG]: catched entry: https://amzn.to/3V8qkZC
+2022-10-18 22:26:18 [DBG]: catched entry: https://amzn.to/3ek33mK
+2022-10-18 22:26:18 [DBG]: catched entry: https://amzn.to/3CEgesb
+2022-10-18 22:26:18 [DBG]: catched entry: https://amzn.to/3V7pTi2
+2022-10-18 22:26:18 [DBG]: catched entry: https://amzn.to/3fLL7Sw
+2022-10-18 22:26:18 [DBG]: catched entry: https://amzn.to/3fSOg3a
+2022-10-18 22:26:18 [DBG]: catched entry: https://amzn.to/3ChExe0
+2022-10-18 22:26:18 [DBG]: catched entry: https://amzn.to/3RI3pRO
+2022-10-18 22:26:18 [DBG]: trying to get data from: SELECT id, main_url FROM `waschmaschinen` ORDER BY id
+2022-10-18 22:26:18 [DBG]: catched entry: 
+2022-10-18 22:26:18 [DBG]: catched main list:[{'on-ear-kopfhoerer': ['https://amzn.to/3V8qkZC', 'https://amzn.to/3ek33mK', 'https://amzn.to/3CEgesb', 'https://amzn.to/3V7pTi2', 'https://amzn.to/3fLL7Sw', 'https://amzn.to/3fSOg3a', 'https://amzn.to/3ChExe0', 'https://amzn.to/3RI3pRO']}, {'waschmaschinen': ['']}]
+2022-10-18 22:39:32 [INF]: Started program
+2022-10-18 22:39:32 [INF]: starting execution
+2022-10-18 22:39:32 [INF]: trying to get data from: SELECT table_name FROM header
+2022-10-18 22:39:32 [DBG]: trying to get data from: SELECT id, main_url, main_price, star, review_count FROM `on-ear-kopfhoerer` ORDER BY id
+2022-10-18 22:39:32 [DBG]: catched entry: https://amzn.to/3V8qkZC
+2022-10-18 22:39:32 [DBG]: catched entry: https://amzn.to/3ek33mK
+2022-10-18 22:39:32 [DBG]: catched entry: https://amzn.to/3CEgesb
+2022-10-18 22:39:32 [DBG]: catched entry: https://amzn.to/3V7pTi2
+2022-10-18 22:39:32 [DBG]: catched entry: https://amzn.to/3fLL7Sw
+2022-10-18 22:39:32 [DBG]: catched entry: https://amzn.to/3fSOg3a
+2022-10-18 22:39:32 [DBG]: catched entry: https://amzn.to/3ChExe0
+2022-10-18 22:39:32 [DBG]: catched entry: https://amzn.to/3RI3pRO
+2022-10-18 22:39:32 [DBG]: trying to get data from: SELECT id, main_url, main_price, star, review_count FROM `waschmaschinen` ORDER BY id
+2022-10-18 22:39:32 [DBG]: catched entry: 
+2022-10-18 22:39:32 [DBG]: catched main list:[[{'id': 1, 'table_name': 'waschmaschinen', 'main_url': '', 'main_price': '', 'star': 0.0, 'review_count': 0}]]
+2022-10-18 22:39:58 [INF]: Started program
+2022-10-18 22:39:58 [INF]: starting execution
+2022-10-18 22:39:58 [INF]: trying to get data from: SELECT table_name FROM header
+2022-10-18 22:39:58 [DBG]: trying to get data from: SELECT id, main_url, main_price, star, review_count FROM `on-ear-kopfhoerer` ORDER BY id
+2022-10-18 22:39:58 [DBG]: catched entry: https://amzn.to/3V8qkZC
+2022-10-18 22:39:58 [DBG]: catched entry: https://amzn.to/3ek33mK
+2022-10-18 22:39:58 [DBG]: catched entry: https://amzn.to/3CEgesb
+2022-10-18 22:39:58 [DBG]: catched entry: https://amzn.to/3V7pTi2
+2022-10-18 22:39:58 [DBG]: catched entry: https://amzn.to/3fLL7Sw
+2022-10-18 22:39:58 [DBG]: catched entry: https://amzn.to/3fSOg3a
+2022-10-18 22:39:58 [DBG]: catched entry: https://amzn.to/3ChExe0
+2022-10-18 22:39:58 [DBG]: catched entry: https://amzn.to/3RI3pRO
+2022-10-18 22:39:58 [DBG]: trying to get data from: SELECT id, main_url, main_price, star, review_count FROM `waschmaschinen` ORDER BY id
+2022-10-18 22:39:58 [DBG]: catched entry: 
+2022-10-18 22:39:58 [DBG]: catched main list:[[{'id': 1, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V8qkZC', 'main_price': '269,99', 'star': 4.6, 'review_count': 11916}, {'id': 2, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ek33mK', 'main_price': '578,99', 'star': 4.6, 'review_count': 5216}, {'id': 3, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3CEgesb', 'main_price': '389,99', 'star': 4.4, 'review_count': 1079}, {'id': 4, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V7pTi2', 'main_price': '279,00', 'star': 4.5, 'review_count': 9140}, {'id': 5, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fLL7Sw', 'main_price': '257,00', 'star': 4.5, 'review_count': 22308}, {'id': 6, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fSOg3a', 'main_price': '239,99', 'star': 4.5, 'review_count': 7652}, {'id': 7, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ChExe0', 'main_price': '91,40', 'star': 4.0, 'review_count': 375}, {'id': 8, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3RI3pRO', 'main_price': '265,00', 'star': 4.4, 'review_count': 2930}], [{'id': 1, 'table_name': 'waschmaschinen', 'main_url': '', 'main_price': '', 'star': 0.0, 'review_count': 0}]]
+2022-10-18 22:41:42 [INF]: Started program
+2022-10-18 22:41:42 [INF]: starting execution
+2022-10-18 22:41:42 [INF]: trying to get data from: SELECT table_name FROM header
+2022-10-18 22:41:42 [DBG]: trying to get data from: SELECT id, main_url, main_price, star, review_count FROM `on-ear-kopfhoerer` ORDER BY id
+2022-10-18 22:41:42 [DBG]: catched entry: https://amzn.to/3V8qkZC
+2022-10-18 22:41:42 [DBG]: catched entry: https://amzn.to/3ek33mK
+2022-10-18 22:41:42 [DBG]: catched entry: https://amzn.to/3CEgesb
+2022-10-18 22:41:42 [DBG]: catched entry: https://amzn.to/3V7pTi2
+2022-10-18 22:41:42 [DBG]: catched entry: https://amzn.to/3fLL7Sw
+2022-10-18 22:41:42 [DBG]: catched entry: https://amzn.to/3fSOg3a
+2022-10-18 22:41:42 [DBG]: catched entry: https://amzn.to/3ChExe0
+2022-10-18 22:41:42 [DBG]: catched entry: https://amzn.to/3RI3pRO
+2022-10-18 22:41:42 [DBG]: trying to get data from: SELECT id, main_url, main_price, star, review_count FROM `waschmaschinen` ORDER BY id
+2022-10-18 22:41:42 [DBG]: catched entry: 
+2022-10-18 22:41:42 [DBG]: catched main list:[[{'id': 1, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V8qkZC', 'main_price': '269,99', 'star': 4.6, 'review_count': 11916}, {'id': 2, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ek33mK', 'main_price': '578,99', 'star': 4.6, 'review_count': 5216}, {'id': 3, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3CEgesb', 'main_price': '389,99', 'star': 4.4, 'review_count': 1079}, {'id': 4, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V7pTi2', 'main_price': '279,00', 'star': 4.5, 'review_count': 9140}, {'id': 5, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fLL7Sw', 'main_price': '257,00', 'star': 4.5, 'review_count': 22308}, {'id': 6, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fSOg3a', 'main_price': '239,99', 'star': 4.5, 'review_count': 7652}, {'id': 7, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ChExe0', 'main_price': '91,40', 'star': 4.0, 'review_count': 375}, {'id': 8, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3RI3pRO', 'main_price': '265,00', 'star': 4.4, 'review_count': 2930}], [{'id': 1, 'table_name': 'waschmaschinen', 'main_url': '', 'main_price': '', 'star': 0.0, 'review_count': 0}]]
+2022-10-18 22:42:33 [INF]: Started program
+2022-10-18 22:42:33 [INF]: starting execution
+2022-10-18 22:42:33 [INF]: trying to get data from: SELECT table_name FROM header
+2022-10-18 22:42:33 [DBG]: trying to get data from: SELECT id, main_url, main_price, star, review_count FROM `on-ear-kopfhoerer` ORDER BY id
+2022-10-18 22:42:33 [DBG]: catched entry: https://amzn.to/3V8qkZC
+2022-10-18 22:42:33 [DBG]: catched entry: https://amzn.to/3ek33mK
+2022-10-18 22:42:33 [DBG]: catched entry: https://amzn.to/3CEgesb
+2022-10-18 22:42:33 [DBG]: catched entry: https://amzn.to/3V7pTi2
+2022-10-18 22:42:33 [DBG]: catched entry: https://amzn.to/3fLL7Sw
+2022-10-18 22:42:33 [DBG]: catched entry: https://amzn.to/3fSOg3a
+2022-10-18 22:42:33 [DBG]: catched entry: https://amzn.to/3ChExe0
+2022-10-18 22:42:33 [DBG]: catched entry: https://amzn.to/3RI3pRO
+2022-10-18 22:42:33 [DBG]: trying to get data from: SELECT id, main_url, main_price, star, review_count FROM `waschmaschinen` ORDER BY id
+2022-10-18 22:42:33 [DBG]: catched entry: 
+2022-10-18 22:42:33 [DBG]: catched main list:[[{'id': 1, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V8qkZC', 'main_price': '269,99', 'star': 4.6, 'review_count': 11916}, {'id': 2, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ek33mK', 'main_price': '578,99', 'star': 4.6, 'review_count': 5216}, {'id': 3, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3CEgesb', 'main_price': '389,99', 'star': 4.4, 'review_count': 1079}, {'id': 4, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V7pTi2', 'main_price': '279,00', 'star': 4.5, 'review_count': 9140}, {'id': 5, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fLL7Sw', 'main_price': '257,00', 'star': 4.5, 'review_count': 22308}, {'id': 6, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fSOg3a', 'main_price': '239,99', 'star': 4.5, 'review_count': 7652}, {'id': 7, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ChExe0', 'main_price': '91,40', 'star': 4.0, 'review_count': 375}, {'id': 8, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3RI3pRO', 'main_price': '265,00', 'star': 4.4, 'review_count': 2930}, {'id': 1, 'table_name': 'waschmaschinen', 'main_url': '', 'main_price': '', 'star': 0.0, 'review_count': 0}], [{'id': 1, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V8qkZC', 'main_price': '269,99', 'star': 4.6, 'review_count': 11916}, {'id': 2, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ek33mK', 'main_price': '578,99', 'star': 4.6, 'review_count': 5216}, {'id': 3, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3CEgesb', 'main_price': '389,99', 'star': 4.4, 'review_count': 1079}, {'id': 4, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V7pTi2', 'main_price': '279,00', 'star': 4.5, 'review_count': 9140}, {'id': 5, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fLL7Sw', 'main_price': '257,00', 'star': 4.5, 'review_count': 22308}, {'id': 6, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fSOg3a', 'main_price': '239,99', 'star': 4.5, 'review_count': 7652}, {'id': 7, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ChExe0', 'main_price': '91,40', 'star': 4.0, 'review_count': 375}, {'id': 8, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3RI3pRO', 'main_price': '265,00', 'star': 4.4, 'review_count': 2930}, {'id': 1, 'table_name': 'waschmaschinen', 'main_url': '', 'main_price': '', 'star': 0.0, 'review_count': 0}]]
+2022-10-18 22:42:41 [INF]: Started program
+2022-10-18 22:42:41 [INF]: starting execution
+2022-10-18 22:42:41 [INF]: trying to get data from: SELECT table_name FROM header
+2022-10-18 22:42:41 [DBG]: trying to get data from: SELECT id, main_url, main_price, star, review_count FROM `on-ear-kopfhoerer` ORDER BY id
+2022-10-18 22:42:41 [DBG]: catched entry: https://amzn.to/3V8qkZC
+2022-10-18 22:42:41 [DBG]: catched entry: https://amzn.to/3ek33mK
+2022-10-18 22:42:41 [DBG]: catched entry: https://amzn.to/3CEgesb
+2022-10-18 22:42:41 [DBG]: catched entry: https://amzn.to/3V7pTi2
+2022-10-18 22:42:41 [DBG]: catched entry: https://amzn.to/3fLL7Sw
+2022-10-18 22:42:41 [DBG]: catched entry: https://amzn.to/3fSOg3a
+2022-10-18 22:42:41 [DBG]: catched entry: https://amzn.to/3ChExe0
+2022-10-18 22:42:41 [DBG]: catched entry: https://amzn.to/3RI3pRO
+2022-10-18 22:42:41 [DBG]: trying to get data from: SELECT id, main_url, main_price, star, review_count FROM `waschmaschinen` ORDER BY id
+2022-10-18 22:42:41 [DBG]: catched entry: 
+2022-10-18 22:42:41 [DBG]: catched main list:[[{'id': 1, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V8qkZC', 'main_price': '269,99', 'star': 4.6, 'review_count': 11916}, {'id': 2, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ek33mK', 'main_price': '578,99', 'star': 4.6, 'review_count': 5216}, {'id': 3, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3CEgesb', 'main_price': '389,99', 'star': 4.4, 'review_count': 1079}, {'id': 4, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V7pTi2', 'main_price': '279,00', 'star': 4.5, 'review_count': 9140}, {'id': 5, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fLL7Sw', 'main_price': '257,00', 'star': 4.5, 'review_count': 22308}, {'id': 6, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fSOg3a', 'main_price': '239,99', 'star': 4.5, 'review_count': 7652}, {'id': 7, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ChExe0', 'main_price': '91,40', 'star': 4.0, 'review_count': 375}, {'id': 8, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3RI3pRO', 'main_price': '265,00', 'star': 4.4, 'review_count': 2930}, {'id': 1, 'table_name': 'waschmaschinen', 'main_url': '', 'main_price': '', 'star': 0.0, 'review_count': 0}], [{'id': 1, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V8qkZC', 'main_price': '269,99', 'star': 4.6, 'review_count': 11916}, {'id': 2, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ek33mK', 'main_price': '578,99', 'star': 4.6, 'review_count': 5216}, {'id': 3, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3CEgesb', 'main_price': '389,99', 'star': 4.4, 'review_count': 1079}, {'id': 4, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V7pTi2', 'main_price': '279,00', 'star': 4.5, 'review_count': 9140}, {'id': 5, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fLL7Sw', 'main_price': '257,00', 'star': 4.5, 'review_count': 22308}, {'id': 6, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fSOg3a', 'main_price': '239,99', 'star': 4.5, 'review_count': 7652}, {'id': 7, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ChExe0', 'main_price': '91,40', 'star': 4.0, 'review_count': 375}, {'id': 8, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3RI3pRO', 'main_price': '265,00', 'star': 4.4, 'review_count': 2930}, {'id': 1, 'table_name': 'waschmaschinen', 'main_url': '', 'main_price': '', 'star': 0.0, 'review_count': 0}]]
+2022-10-18 22:42:53 [INF]: Started program
+2022-10-18 22:42:53 [INF]: starting execution
+2022-10-18 22:42:53 [INF]: trying to get data from: SELECT table_name FROM header
+2022-10-18 22:42:53 [DBG]: trying to get data from: SELECT id, main_url, main_price, star, review_count FROM `on-ear-kopfhoerer` ORDER BY id
+2022-10-18 22:42:53 [DBG]: catched entry: https://amzn.to/3V8qkZC
+2022-10-18 22:42:53 [DBG]: catched entry: https://amzn.to/3ek33mK
+2022-10-18 22:42:53 [DBG]: catched entry: https://amzn.to/3CEgesb
+2022-10-18 22:42:53 [DBG]: catched entry: https://amzn.to/3V7pTi2
+2022-10-18 22:42:53 [DBG]: catched entry: https://amzn.to/3fLL7Sw
+2022-10-18 22:42:53 [DBG]: catched entry: https://amzn.to/3fSOg3a
+2022-10-18 22:42:53 [DBG]: catched entry: https://amzn.to/3ChExe0
+2022-10-18 22:42:53 [DBG]: catched entry: https://amzn.to/3RI3pRO
+2022-10-18 22:42:53 [DBG]: trying to get data from: SELECT id, main_url, main_price, star, review_count FROM `waschmaschinen` ORDER BY id
+2022-10-18 22:42:53 [DBG]: catched entry: 
+2022-10-18 22:42:53 [DBG]: catched main list:[[{'id': 1, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V8qkZC', 'main_price': '269,99', 'star': 4.6, 'review_count': 11916}, {'id': 2, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ek33mK', 'main_price': '578,99', 'star': 4.6, 'review_count': 5216}, {'id': 3, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3CEgesb', 'main_price': '389,99', 'star': 4.4, 'review_count': 1079}, {'id': 4, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V7pTi2', 'main_price': '279,00', 'star': 4.5, 'review_count': 9140}, {'id': 5, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fLL7Sw', 'main_price': '257,00', 'star': 4.5, 'review_count': 22308}, {'id': 6, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fSOg3a', 'main_price': '239,99', 'star': 4.5, 'review_count': 7652}, {'id': 7, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ChExe0', 'main_price': '91,40', 'star': 4.0, 'review_count': 375}, {'id': 8, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3RI3pRO', 'main_price': '265,00', 'star': 4.4, 'review_count': 2930}], [{'id': 1, 'table_name': 'waschmaschinen', 'main_url': '', 'main_price': '', 'star': 0.0, 'review_count': 0}]]
+2022-10-18 23:15:10 [INF]: Started program
+2022-10-18 23:15:10 [INF]: starting execution
+2022-10-18 23:15:39 [INF]: Started program
+2022-10-18 23:15:39 [INF]: starting execution
+2022-10-18 23:15:47 [INF]: Started program
+2022-10-18 23:15:47 [INF]: starting execution
+2022-10-18 23:16:33 [INF]: Started program
+2022-10-18 23:16:33 [INF]: starting execution
+2022-10-18 23:20:20 [INF]: Started program
+2022-10-18 23:20:20 [INF]: starting execution
+2022-10-18 23:20:20 [INF]: trying to get data from: SELECT table_name FROM header
+2022-10-18 23:20:20 [DBG]: trying to get data from: SELECT id, main_url, main_price, star, review_count FROM `on-ear-kopfhoerer` ORDER BY id
+2022-10-18 23:20:20 [DBG]: catched entry: https://amzn.to/3V8qkZC
+2022-10-18 23:20:20 [DBG]: catched entry: https://amzn.to/3ek33mK
+2022-10-18 23:20:20 [DBG]: catched entry: https://amzn.to/3CEgesb
+2022-10-18 23:20:20 [DBG]: catched entry: https://amzn.to/3V7pTi2
+2022-10-18 23:20:20 [DBG]: catched entry: https://amzn.to/3fLL7Sw
+2022-10-18 23:20:20 [DBG]: catched entry: https://amzn.to/3fSOg3a
+2022-10-18 23:20:20 [DBG]: catched entry: https://amzn.to/3ChExe0
+2022-10-18 23:20:20 [DBG]: catched entry: https://amzn.to/3RI3pRO
+2022-10-18 23:20:20 [DBG]: trying to get data from: SELECT id, main_url, main_price, star, review_count FROM `waschmaschinen` ORDER BY id
+2022-10-18 23:20:20 [DBG]: catched entry: 
+2022-10-18 23:20:20 [DBG]: catched main list:[[{'id': 1, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V8qkZC', 'main_price': '269,99', 'star': 4.6, 'review_count': 11916}, {'id': 2, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ek33mK', 'main_price': '578,99', 'star': 4.6, 'review_count': 5216}, {'id': 3, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3CEgesb', 'main_price': '389,99', 'star': 4.4, 'review_count': 1079}, {'id': 4, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V7pTi2', 'main_price': '279,00', 'star': 4.5, 'review_count': 9140}, {'id': 5, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fLL7Sw', 'main_price': '257,00', 'star': 4.5, 'review_count': 22308}, {'id': 6, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fSOg3a', 'main_price': '239,99', 'star': 4.5, 'review_count': 7652}, {'id': 7, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ChExe0', 'main_price': '91,40', 'star': 4.0, 'review_count': 375}, {'id': 8, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3RI3pRO', 'main_price': '265,00', 'star': 4.4, 'review_count': 2930}], [{'id': 1, 'table_name': 'waschmaschinen', 'main_url': '', 'main_price': '', 'star': 0.0, 'review_count': 0}]]
+2022-10-18 23:27:34 [INF]: Started program
+2022-10-18 23:27:34 [INF]: starting execution
+2022-10-18 23:27:34 [INF]: trying to get data from: SELECT table_name FROM header
+2022-10-18 23:27:54 [INF]: Started program
+2022-10-18 23:27:54 [INF]: starting execution
+2022-10-18 23:27:54 [INF]: trying to get data from: SELECT table_name FROM header
+2022-10-18 23:27:54 [DBG]: trying to get data from: SELECT id, main_url, main_price, star, review_count FROM `on-ear-kopfhoerer` ORDER BY id
+2022-10-18 23:27:54 [DBG]: catched entry: https://amzn.to/3V8qkZC
+2022-10-18 23:27:54 [DBG]: catched entry: https://amzn.to/3ek33mK
+2022-10-18 23:27:54 [DBG]: catched entry: https://amzn.to/3CEgesb
+2022-10-18 23:27:54 [DBG]: catched entry: https://amzn.to/3V7pTi2
+2022-10-18 23:27:54 [DBG]: catched entry: https://amzn.to/3fLL7Sw
+2022-10-18 23:27:54 [DBG]: catched entry: https://amzn.to/3fSOg3a
+2022-10-18 23:27:54 [DBG]: catched entry: https://amzn.to/3ChExe0
+2022-10-18 23:27:54 [DBG]: catched entry: https://amzn.to/3RI3pRO
+2022-10-18 23:27:54 [DBG]: trying to get data from: SELECT id, main_url, main_price, star, review_count FROM `waschmaschinen` ORDER BY id
+2022-10-18 23:27:54 [DBG]: catched entry: 
+2022-10-18 23:27:54 [DBG]: catched main list:[[{'id': 1, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V8qkZC', 'main_price': '269,99', 'star': 4.6, 'review_count': 11916}, {'id': 2, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ek33mK', 'main_price': '578,99', 'star': 4.6, 'review_count': 5216}, {'id': 3, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3CEgesb', 'main_price': '389,99', 'star': 4.4, 'review_count': 1079}, {'id': 4, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V7pTi2', 'main_price': '279,00', 'star': 4.5, 'review_count': 9140}, {'id': 5, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fLL7Sw', 'main_price': '257,00', 'star': 4.5, 'review_count': 22308}, {'id': 6, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fSOg3a', 'main_price': '239,99', 'star': 4.5, 'review_count': 7652}, {'id': 7, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ChExe0', 'main_price': '91,40', 'star': 4.0, 'review_count': 375}, {'id': 8, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3RI3pRO', 'main_price': '265,00', 'star': 4.4, 'review_count': 2930}], [{'id': 1, 'table_name': 'waschmaschinen', 'main_url': '', 'main_price': '', 'star': 0.0, 'review_count': 0}]]
+2022-10-18 23:28:05 [INF]: Started program
+2022-10-18 23:28:05 [INF]: starting execution
+2022-10-18 23:28:05 [INF]: trying to get data from: SELECT table_name FROM header
+2022-10-18 23:31:58 [INF]: Started program
+2022-10-18 23:31:58 [INF]: starting execution
+2022-10-18 23:31:58 [INF]: trying to get data from: SELECT table_name FROM header
+2022-10-18 23:31:58 [DBG]: trying to get data from: SELECT id, main_url, main_price, star, review_count FROM `on-ear-kopfhoerer` ORDER BY id
+2022-10-18 23:31:58 [DBG]: catched entry: https://amzn.to/3V8qkZC
+2022-10-18 23:31:58 [DBG]: catched entry: https://amzn.to/3ek33mK
+2022-10-18 23:31:58 [DBG]: catched entry: https://amzn.to/3CEgesb
+2022-10-18 23:31:58 [DBG]: catched entry: https://amzn.to/3V7pTi2
+2022-10-18 23:31:58 [DBG]: catched entry: https://amzn.to/3fLL7Sw
+2022-10-18 23:31:58 [DBG]: catched entry: https://amzn.to/3fSOg3a
+2022-10-18 23:31:58 [DBG]: catched entry: https://amzn.to/3ChExe0
+2022-10-18 23:31:58 [DBG]: catched entry: https://amzn.to/3RI3pRO
+2022-10-18 23:31:58 [DBG]: trying to get data from: SELECT id, main_url, main_price, star, review_count FROM `waschmaschinen` ORDER BY id
+2022-10-18 23:31:58 [DBG]: catched entry: 
+2022-10-18 23:31:58 [DBG]: catched main list:[[{'id': 1, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V8qkZC', 'main_price': '269,99', 'star': 4.6, 'review_count': 11916}, {'id': 2, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ek33mK', 'main_price': '578,99', 'star': 4.6, 'review_count': 5216}, {'id': 3, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3CEgesb', 'main_price': '389,99', 'star': 4.4, 'review_count': 1079}, {'id': 4, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V7pTi2', 'main_price': '279,00', 'star': 4.5, 'review_count': 9140}, {'id': 5, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fLL7Sw', 'main_price': '257,00', 'star': 4.5, 'review_count': 22308}, {'id': 6, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fSOg3a', 'main_price': '239,99', 'star': 4.5, 'review_count': 7652}, {'id': 7, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ChExe0', 'main_price': '91,40', 'star': 4.0, 'review_count': 375}, {'id': 8, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3RI3pRO', 'main_price': '265,00', 'star': 4.4, 'review_count': 2930}], [{'id': 1, 'table_name': 'waschmaschinen', 'main_url': '', 'main_price': '', 'star': 0.0, 'review_count': 0}]]
+2022-10-18 23:43:32 [INF]: Started program
+2022-10-18 23:43:32 [INF]: starting execution
+2022-10-18 23:43:32 [DBG]: fetched product: {'id': 1, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V8qkZC', 'main_price': '269,99', 'star': 4.6, 'review_count': 11916}
+2022-10-18 23:43:32 [DBG]: fetched product: {'id': 2, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ek33mK', 'main_price': '578,99', 'star': 4.6, 'review_count': 5216}
+2022-10-18 23:43:32 [DBG]: fetched product: {'id': 3, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3CEgesb', 'main_price': '389,99', 'star': 4.4, 'review_count': 1079}
+2022-10-18 23:43:32 [DBG]: fetched product: {'id': 4, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V7pTi2', 'main_price': '279,00', 'star': 4.5, 'review_count': 9140}
+2022-10-18 23:43:32 [DBG]: fetched product: {'id': 5, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fLL7Sw', 'main_price': '257,00', 'star': 4.5, 'review_count': 22308}
+2022-10-18 23:43:32 [DBG]: fetched product: {'id': 6, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fSOg3a', 'main_price': '239,99', 'star': 4.5, 'review_count': 7652}
+2022-10-18 23:43:32 [DBG]: fetched product: {'id': 7, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ChExe0', 'main_price': '91,40', 'star': 4.0, 'review_count': 375}
+2022-10-18 23:43:32 [DBG]: fetched product: {'id': 8, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3RI3pRO', 'main_price': '265,00', 'star': 4.4, 'review_count': 2930}
+2022-10-18 23:43:32 [DBG]: fetched product: {'id': 1, 'table_name': 'waschmaschinen', 'main_url': '', 'main_price': '', 'star': 0.0, 'review_count': 0}
+2022-10-18 23:43:32 [DBG]: main list:[[{'id': 1, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V8qkZC', 'main_price': '269,99', 'star': 4.6, 'review_count': 11916}, {'id': 2, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ek33mK', 'main_price': '578,99', 'star': 4.6, 'review_count': 5216}, {'id': 3, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3CEgesb', 'main_price': '389,99', 'star': 4.4, 'review_count': 1079}, {'id': 4, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V7pTi2', 'main_price': '279,00', 'star': 4.5, 'review_count': 9140}, {'id': 5, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fLL7Sw', 'main_price': '257,00', 'star': 4.5, 'review_count': 22308}, {'id': 6, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fSOg3a', 'main_price': '239,99', 'star': 4.5, 'review_count': 7652}, {'id': 7, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ChExe0', 'main_price': '91,40', 'star': 4.0, 'review_count': 375}, {'id': 8, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3RI3pRO', 'main_price': '265,00', 'star': 4.4, 'review_count': 2930}], [{'id': 1, 'table_name': 'waschmaschinen', 'main_url': '', 'main_price': '', 'star': 0.0, 'review_count': 0}]]
+2022-10-18 23:43:47 [INF]: Started program
+2022-10-18 23:43:47 [INF]: starting execution
+2022-10-18 23:43:47 [DBG]: fetched product: {'id': 1, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V8qkZC', 'main_price': '269,99', 'star': 4.6, 'review_count': 11916}
+2022-10-18 23:43:47 [DBG]: fetched product: {'id': 2, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ek33mK', 'main_price': '578,99', 'star': 4.6, 'review_count': 5216}
+2022-10-18 23:43:47 [DBG]: fetched product: {'id': 3, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3CEgesb', 'main_price': '389,99', 'star': 4.4, 'review_count': 1079}
+2022-10-18 23:43:47 [DBG]: fetched product: {'id': 4, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V7pTi2', 'main_price': '279,00', 'star': 4.5, 'review_count': 9140}
+2022-10-18 23:43:47 [DBG]: fetched product: {'id': 5, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fLL7Sw', 'main_price': '257,00', 'star': 4.5, 'review_count': 22308}
+2022-10-18 23:43:47 [DBG]: fetched product: {'id': 6, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fSOg3a', 'main_price': '239,99', 'star': 4.5, 'review_count': 7652}
+2022-10-18 23:43:47 [DBG]: fetched product: {'id': 7, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ChExe0', 'main_price': '91,40', 'star': 4.0, 'review_count': 375}
+2022-10-18 23:43:47 [DBG]: fetched product: {'id': 8, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3RI3pRO', 'main_price': '265,00', 'star': 4.4, 'review_count': 2930}
+2022-10-18 23:43:47 [DBG]: fetched product: {'id': 1, 'table_name': 'waschmaschinen', 'main_url': '', 'main_price': '', 'star': 0.0, 'review_count': 0}
+2022-10-18 23:43:47 [DBG]: main list:[[{'id': 1, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V8qkZC', 'main_price': '269,99', 'star': 4.6, 'review_count': 11916}, {'id': 2, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ek33mK', 'main_price': '578,99', 'star': 4.6, 'review_count': 5216}, {'id': 3, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3CEgesb', 'main_price': '389,99', 'star': 4.4, 'review_count': 1079}, {'id': 4, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V7pTi2', 'main_price': '279,00', 'star': 4.5, 'review_count': 9140}, {'id': 5, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fLL7Sw', 'main_price': '257,00', 'star': 4.5, 'review_count': 22308}, {'id': 6, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fSOg3a', 'main_price': '239,99', 'star': 4.5, 'review_count': 7652}, {'id': 7, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ChExe0', 'main_price': '91,40', 'star': 4.0, 'review_count': 375}, {'id': 8, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3RI3pRO', 'main_price': '265,00', 'star': 4.4, 'review_count': 2930}], [{'id': 1, 'table_name': 'waschmaschinen', 'main_url': '', 'main_price': '', 'star': 0.0, 'review_count': 0}]]
+2022-10-18 23:44:55 [INF]: Started program
+2022-10-18 23:44:55 [INF]: starting execution
+2022-10-18 23:44:55 [DBG]: fetched product: {'id': 1, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V8qkZC', 'main_price': '269,99', 'star': 4.6, 'review_count': 11916}
+2022-10-18 23:44:55 [DBG]: fetched product: {'id': 2, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ek33mK', 'main_price': '578,99', 'star': 4.6, 'review_count': 5216}
+2022-10-18 23:44:55 [DBG]: fetched product: {'id': 3, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3CEgesb', 'main_price': '389,99', 'star': 4.4, 'review_count': 1079}
+2022-10-18 23:44:55 [DBG]: fetched product: {'id': 4, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V7pTi2', 'main_price': '279,00', 'star': 4.5, 'review_count': 9140}
+2022-10-18 23:44:55 [DBG]: fetched product: {'id': 5, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fLL7Sw', 'main_price': '257,00', 'star': 4.5, 'review_count': 22308}
+2022-10-18 23:44:55 [DBG]: fetched product: {'id': 6, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fSOg3a', 'main_price': '239,99', 'star': 4.5, 'review_count': 7652}
+2022-10-18 23:44:55 [DBG]: fetched product: {'id': 7, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ChExe0', 'main_price': '91,40', 'star': 4.0, 'review_count': 375}
+2022-10-18 23:44:55 [DBG]: fetched product: {'id': 8, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3RI3pRO', 'main_price': '265,00', 'star': 4.4, 'review_count': 2930}
+2022-10-18 23:44:55 [DBG]: fetched product: {'id': 1, 'table_name': 'waschmaschinen', 'main_url': '', 'main_price': '', 'star': 0.0, 'review_count': 0}
+2022-10-18 23:44:55 [DBG]: main list:[[{'id': 1, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V8qkZC', 'main_price': '269,99', 'star': 4.6, 'review_count': 11916}, {'id': 2, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ek33mK', 'main_price': '578,99', 'star': 4.6, 'review_count': 5216}, {'id': 3, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3CEgesb', 'main_price': '389,99', 'star': 4.4, 'review_count': 1079}, {'id': 4, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3V7pTi2', 'main_price': '279,00', 'star': 4.5, 'review_count': 9140}, {'id': 5, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fLL7Sw', 'main_price': '257,00', 'star': 4.5, 'review_count': 22308}, {'id': 6, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3fSOg3a', 'main_price': '239,99', 'star': 4.5, 'review_count': 7652}, {'id': 7, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3ChExe0', 'main_price': '91,40', 'star': 4.0, 'review_count': 375}, {'id': 8, 'table_name': 'on-ear-kopfhoerer', 'main_url': 'https://amzn.to/3RI3pRO', 'main_price': '265,00', 'star': 4.4, 'review_count': 2930}], [{'id': 1, 'table_name': 'waschmaschinen', 'main_url': '', 'main_price': '', 'star': 0.0, 'review_count': 0}]]

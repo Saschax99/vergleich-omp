@@ -1,0 +1,195 @@
+v0.00 02.10.2022
+    - started
+    - created template
+
+v0.01 03.10.2022
+    - fixed nav bar with dropdown
+        - dropdown showed underline which shouldnt be visible
+    - fixed table
+        - dont show outer border
+    - added increase animation counter
+    - change increased size of "Zum Angebot" button
+    - fixed footer alignment
+    - added three categories which are highlighted
+        - color orange
+        - light green
+        - light red
+        - all colors fade into all columns
+    - change centering productname and bigger cell
+    
+v0.02 04.10.2022
+    - implemented sql db
+        - added header table | global for all further pages
+        - added first table for headphones
+        - 
+    - implemented php
+        - 
+    - fixed year and month when multiple used on page
+    - added bottom "Erhältlich bei" row with no design
+
+v0.03 05.10.2022
+    - fixed hover on picture with js
+        - more reliable on resizing
+    - added font for logo
+    - fixed "Zum Angebot" button 
+        - resized into full cell
+    - fixed stars
+        - at x.3 adding half star
+        - below x.3 dont set half star
+    - added every odd row is set to light blue color
+    - added 3 more headphones
+    - added cross and check mark when inserted ja/yes or nein/no
+    - added circle for colors
+    - fixed second urls for website
+        - max width set for otto, ebay and amazon
+    
+v0.04 06.10.2022
+    - added link on pictures
+    - added system to skip columns with $min_page and $max_page
+        - working fine for the first tests
+        - skip buttons left and right added with function
+        - it's reloading page when clicking, not changeable with php need to js
+    - added ranking on picture row in a circle
+    - added '*' to rows with links
+    - added few new rows categories
+    - fixed "Erhältlich bei*" with design, correct align and when no information was given then no element is getting added
+    - added small description
+    - implemented db to vergleich-omp.de
+        - working fine with connection
+    - added positive and negative points with "+" and "-"
+
+v0.05 07.10.2022
+    - added "omp" logo for website instead of writing the word
+    - added simple latest products on index
+    - optimizations for pc, tablet and mobile view
+        - still few things to do
+    - added cookie for screen width to check how many items to show
+
+v0.06 08.10.2022
+    - optimized tablet and mobile view
+
+v0.07 10.10.2022
+    - deleted "content_index" table in db 
+    - calculating the values on index instead of own table 
+    - optimizated "last reviews" on index
+        - 1. to 4. ranked elements are displayed with a picture
+        - description is full
+        - margin-bottom set
+
+v0.08 12.10.2022
+    - created header.php template
+    - created footer.php template
+
+v0.09 13.10.2022
+    - deleted .php extensions with .htaccess file. (mod_rewrite)
+    - deleted .php extensions on all pages
+    - added imprint and terms with content
+    - added mailto to "Kontakt" button
+    - excluded html syntax from echo
+            - echo '<td>'; 
+        TO ->
+            - ?>
+            - <td>
+            - <?php
+
+v0.10 14.10.2022
+    - removed js and php for pagination
+    - getting header query by name assigned before instead of type in url
+    - new table structure with different width of cells for desktop/tablet/mobile
+    - changed .php files to clear name and assigned it into db
+        - for future -> just copy .php file
+        - change name to same as in db
+        - create db header for it
+        - create content for it
+    - deleted break in stars row (double <br> was set)
+    - changed button "Zum Angebot" to "Angebot"
+    - margin in colors left and right set 5px
+
+v0.11 15.10.2022
+    - added symbols in header
+    - added pictures into db and directory instead of url from amazon
+    - fixed bug in index.php when trying to catch image of best 4 images
+        - forgot to explode images and parsed both images to <img>
+    - added category system and set ?type= for further operations
+    - select in category correct table where category column is same
+    - changed + and - to symbols of fontawesome
+    - fixed ranking of products sticking to image and not absolute sticky
+    - changed margin on "Vergleichssieger" text
+    - added cookie popup with google tag manager
+    - started to create db_refresher in python
+        - server doesnt support pip and got difficulties to install that -> future problem
+        - catch first price label doesnt work??? only at the first one why the hell
+
+v0.12 16.10.2022
+    - implemented python db_refresher for testing
+        - uploaded to server
+    - small margin and font-sizes changes
+    - added title to columns with links *
+        - when hover text gets highlighted
+
+v0.13 26.10.2022
+    - if enabled is set to 0 set header to error.php page
+    - created modal window with js and html/css
+        - window shows additionally information for product
+        - header with product name
+        - closes and deletes items when pressing "x" or somewhere else outside of the modal
+    - splitting line when too many characters in table (otherwise resizing itself)
+    - scaling images correctly fixed perfectly :D
+
+v0.14 29.10.2022
+    - created desc sorting on index
+    - showing only 15 vergleiche on index page limit set
+    - created sub_category for specific search
+    - added search bar
+        - didnt added the function for search.php
+        - after post the url changes with trash ?search=dasd&submit= checking later again
+    
+v0.15 30.10.2022
+    - added limit per php in characters for index view so it won't get too much text for landingpage
+    - optimized website for google search
+    - added google analytics
+    - added google tag manager (but atm its unused)
+
+v0.16 31.10.2022
+    - color corrections with https://dequeuniversity.com/rules/axe/4.4/color-contrast?utm_source=lighthouse&utm_medium=lr
+    - added new sub sites for google searches
+    - open links in new tab
+
+v0.17 13.11.2022
+    - fixed bootstrap collapse nav bar
+        - didnt expanded bugged
+    - added fingerprint button on bottom right
+    - changed category overlay for better ux
+    - added descriptions for each image on page
+
+v0.18 18.11.2022
+    - when landing on /error and pressing on reload page
+        - automatically taking "returnUrl" value and trying again
+    - search bar included
+        - searching for %value% if exists showing values
+
+on hover on categories show direkt links
+https://www.warenvergleich.de/wagenheber/?utm_source=google&utm_medium=cpc&utm_content=search&utm_term=c-1096890369-a74382475827-kwd-331027875074&gclid=EAIaIQobChMIuJKS2vCN-wIVpwZ7Ch1obg6yEAAYAiAAEgLe3PD_BwE
+as reference
+
+cookies usage
+why what happens on accepting cookies
+
+
+show price entwicklung information where my bot sends everyday price when updating
+
+    
+
+
+
+ubuntu:
+get pip on server:
+alias pip='/mnt/web317/c2/12/512071512/htdocs/.local/bin/pip'
+
+get current path:
+pwd
+
+PID [1] 10185
+
+nohup python3 main.py &
+disown
