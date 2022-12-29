@@ -13,3 +13,17 @@ Official stopped at: 29.12.2022 00:22
 
 ## learnings/motivation quote
 - mit jedem Projekt komme ich meinem Ziel einen Schritt näher
+
+## resumee
+- good project with good ui/ux and nicely working backend python scripts
+- bad implementation to database
+- bad Amazon scrape for product details -> only way to fix is using ki
+- good webpage scores from Google
+- good overall view on page
+
+## reasons to stop this project
+- Amazon as direct middle man
+- small yield from only ref links
+- database implementation not completely optimized - creating new rankings
+- product details are often completely garbage from Amazon
+- maybe not legal
