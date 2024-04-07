@@ -50,13 +50,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								</span>
 								<span style="white-space: pre-line">
 									onemanpublisher
-									c/o Luca Stephan Kohls
-									Hellbrookstraße 48
-									22305 Hamburg
 								</span>	
 								<span style="white-space: pre-line">
-									vertreten durch: Sascha Dolgow (Geschäftsführer)
-									E-Mail: info@vergleich-omp.de
+									vertreten durch: x (Geschäftsführer)
+									E-Mail: info@x.de
 								</span>	
 								<span style="white-space: pre-line">
 									2. GRUNDSÄTZE UNSERER DATENERHEBUNG
@@ -105,9 +102,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								</span>	
 								<span style="white-space: pre-line">
 									onemanpublisher
-									c/o Luca Stephan Kohls
-									Hellbrookstraße 48
-									22305 Hamburg
 								</span>	
 								<span style="white-space: pre-line">
 									6. DATENSICHERHEIT
