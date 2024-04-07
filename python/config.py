@@ -1,8 +1,3 @@
-#DB_HOST = "rdbms.strato.de"
-#DB_USER = "dbu2035037"
-#DB_PASSWORD = "UyNM5znanpPKQpe"
-#DB_PORT = 3306
-#DB_DATABASE = "dbs8791218"
 DB_HOST = "localhost"
 DB_USER = "root"
 DB_PASSWORD = ""
