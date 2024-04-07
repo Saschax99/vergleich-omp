@@ -46,13 +46,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								<span style="white-space: pre-line">
 									Angaben gemäß § 5 TMG:
 									onemanpublisher
-									c/o Luca Stephan Kohls
-									Hellbrookstraße 48
-									22305 Hamburg
+									x
 								</span>
 								<span style="white-space: pre-line">
 									Geschäftsführer:
-									Sascha Dolgow
+									x
 								</span>
 								<span style="white-space: pre-line">
 									Inhaltliche Verantwortung nach § 55 Abs. 2 RStV:
